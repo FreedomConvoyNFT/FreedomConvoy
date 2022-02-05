@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x785F24E20a35e2B8060f4a962d94E9A17A2266Df",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x785f24e20a35e2b8060f4a962d94e9a17a2266df",
+  "NETWORK": {
+    "NAME": "Mumbai Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Freedom Convoy",
+  "SYMBOL": "CFCNFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 30000000000000000000,
+  "DISPLAY_COST": 30,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/freedom-convoy",
+  "SHOW_BACKGROUND": true
+}
