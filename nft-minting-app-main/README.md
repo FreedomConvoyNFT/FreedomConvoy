@@ -1,6 +1,11 @@
-# Welcome to The Stripes NFT 💎
+# Freedom Convoy NFT 💎
 
-![](https://github.com/The-Stripes-NFT/nft-minting-app/blob/main/logo-blob.png)
+This is a new dapp based on the Stripes NFT dapp. The following is the README from that project.
+
+
+
+
+
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
