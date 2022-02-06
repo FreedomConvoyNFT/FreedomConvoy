@@ -13,8 +13,11 @@
     background-color: none;
     width: 100%;
     background-image: url(/config/images/bg.png);
-    background-size: cover;
+    background-size: contain;
     background-position: center;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .content {
@@ -33,9 +36,19 @@ a {
     color: var(--secondary);
 }
 
-h1, p {
+h1, h2, p {
    text-align: center;
    color: var(--accent-text);
+   font-family: 'Sora', sans-serif;
+}
+
+p.q {
+    color: var(--primary);
+    font-weight: bold;
+}
+
+p.q, p.a {
+    text-align: left;
 }
 
 .logo {
