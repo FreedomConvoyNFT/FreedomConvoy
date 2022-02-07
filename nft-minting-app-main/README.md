@@ -1,5 +1,6 @@
 # Freedom Convoy NFT 💎
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6065081f-b4df-44de-874f-81e3b34e5e66/deploy-status)](https://app.netlify.com/sites/freedomconvoy-nft/deploys)
 This is a new dapp based on the Stripes NFT dapp. The following is the README from that project.
 
 
