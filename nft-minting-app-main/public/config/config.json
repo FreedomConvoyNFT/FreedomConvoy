@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "0x785F24E20a35e2B8060f4a962d94E9A17A2266Df",
   "SCAN_LINK": "https://polygonscan.com/address/0x785f24e20a35e2b8060f4a962d94e9a17a2266df",
   "NETWORK": {
-    "NAME": "Polygon Mainnet",
+    "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
